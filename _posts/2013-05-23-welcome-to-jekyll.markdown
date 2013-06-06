@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome Anil's dev blog"
+title:  "Welcome to Anil's dev blog"
 date:   2013-05-23 01:05:30
 categories: hello world
 ---
